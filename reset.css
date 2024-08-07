@@ -1,0 +1,47 @@
+@font-face {
+    font-family: Poppins;
+    src: url(/font/Poppins-BlackItalic.ttf);
+    font-weight: 300;   
+}
+@font-face {
+    font-family: Poppins;
+    src: url(/font/Poppins-Regular.ttf);
+    font-weight: 400;   
+}
+@font-face {
+    font-family: Poppins;
+    src: url(/font/Poppins-Regular.ttf);
+    font-weight: 500;   
+}
+@font-face {
+    font-family: Poppins;
+    src: url(/font/Poppins-Regular.ttf);
+    font-weight: 600;   
+}
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.container {
+    max-width: 1440px;
+    width: 100%;
+    padding: 0px 20px;
+}
+h1 {
+    font-family: Poppins;
+    font-weight: 600;
+}
+h5 {
+    font-family: Poppins;
+    font-weight: ;
+}
+p {
+    font-family: Poppins;
+    font-weight: 300;
+}
+a {
+    font-family: Poppins;
+    font-weight: 600;
+}
